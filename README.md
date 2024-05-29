@@ -4,7 +4,7 @@
 
 #
 
-There are 6016 spot the difference memes generated from the [Totally Looks Like Dataset](https://www.kaggle.com/datasets/ruchi798/totally-looks-like-dataset) on Kaggle.
+There are [6016 spot the difference memes](https://www.kaggle.com/datasets/sourceduty/spot-the-difference-memes/data) generated from the [Totally Looks Like Dataset](https://www.kaggle.com/datasets/ruchi798/totally-looks-like-dataset) on Kaggle.
 
 ### What is pareidolia?
 
