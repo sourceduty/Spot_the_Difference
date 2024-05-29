@@ -6,6 +6,8 @@
 
 There are [6016 spot the difference memes](https://www.kaggle.com/datasets/sourceduty/spot-the-difference-memes) generated from the [Totally Looks Like Dataset](https://www.kaggle.com/datasets/ruchi798/totally-looks-like-dataset) on Kaggle.
 
+The "Spot the Difference Memes" dataset on Kaggle contains funny images presenting two side-by-side meme pictures with slight differences between them. The dataset includes metadata and annotations for each image pair to indicate the differences. This dataset can be useful for research and development in image processing, machine learning, and pattern recognition. 
+
 ### What is pareidolia?
 
 In humans, the phenomenon of pareidolia is well-known. It's the proclivity to see faces in seemingly insignificant objects, such as clouds, rock formations, or even the front of cars. This cognitive bias arises from our brain's tendency to recognize familiar patterns, particularly faces, even when they are not truly present. This tendency likely evolved as a survival mechanism, enhancing our ability to quickly identify faces in our environment, which is crucial for social interaction and threat detection. Consequently, pareidolia is a testament to the brain's remarkable pattern-recognition capabilities, illustrating how our perception is shaped by both innate and learned factors.
